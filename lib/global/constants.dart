@@ -1,0 +1,10 @@
+const String TITLE = 'Hire a Car';
+const String VTYPE = 'Preferred Vehicle Type';
+const String TITLE_2 = 'Start point';
+const String STITLE_2 = 'my current location';
+const String DAT = 'Date';
+const String DAT_VALUE = 'Feb 02';
+const String TIM = 'Time';
+const String TIM_VALUE = '12:11 PM';
+const String S_CAR = 'SEARCH';
+const String TITLE1 = 'Available Cars';
